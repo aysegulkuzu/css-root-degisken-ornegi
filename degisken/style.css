@@ -1,0 +1,10 @@
+:root{
+    --arkaplan-rengi:rgb(70, 129, 148);
+    --yazi-rengi:#fff;
+    --padding-degeri:100px;
+}
+p,h2,h3{
+    background-color: var(--arkaplan-rengi);
+    color: var(--yazi-rengi);
+    padding: var(--padding-degeri);
+}
